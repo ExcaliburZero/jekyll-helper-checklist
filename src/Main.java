@@ -3,7 +3,7 @@ public class Main {
     /*
      * The main function of the program.
      *
-     * @param The arguements that are given when running the program.
+     * @param args The arguements that are given when running the program.
      *
      * @return Returns 0 when the function completes
      */
