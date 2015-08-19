@@ -1,4 +1,4 @@
-package jekyll.helper.checklist;
+package org.pbit.ci.travis.java;
 
 public class Main {
 
@@ -39,5 +39,5 @@ public class Main {
         else
             return 1;
     }
-
+    
 }
