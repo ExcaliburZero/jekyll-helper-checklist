@@ -1,3 +1,5 @@
+package jekyll-helper-checklist;
+
 public class Main {
 
     /*
