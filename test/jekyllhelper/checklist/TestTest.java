@@ -1,4 +1,4 @@
-package org.pbit.ci.travis.java;
+package jekyllhelper.checklist;
 
 import org.junit.Test;
 import static org.junit.Assert.assertTrue;

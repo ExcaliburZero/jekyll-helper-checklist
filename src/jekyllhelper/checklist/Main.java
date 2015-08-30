@@ -1,4 +1,4 @@
-package org.pbit.ci.travis.java;
+package jekllhelper.checklist;
 
 public class Main {
 
