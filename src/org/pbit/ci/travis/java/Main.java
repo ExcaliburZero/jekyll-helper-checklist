@@ -39,5 +39,5 @@ public class Main {
         else
             return 1;
     }
-    
+
 }
